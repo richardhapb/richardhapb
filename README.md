@@ -5,7 +5,7 @@ Soy una persona impulsada por el aprendizaje continuo. Disfruto mucho realizando
 📚
 Soy Ingeniero Civil Industrial de profesión y actualmente me encuentro estudiando Física en la UNED, además estoy en un programa de un año de Data Science en Desafío Latam y finalizando un bootcamp de Ingeniería de datos en Datademia.
 
-Programo desde que tenía 14 años, donde comencé con C++ he hice una calculadora avanzada en la línea de comandos, lamentablemente no conservé el código dado que en ese tiempo usaba una antigua PC de escritorio. También aprendí a usar HTML, CSS y Javascript.
+Programo desde que tenía 14 años, donde comencé con C++, hice una calculadora avanzada en la línea de comandos, lamentablemente no conservé el código dado que en ese tiempo usaba una antigua PC de escritorio. También aprendí a usar HTML, CSS y Javascript.
 
 🕵🏽‍♂️🔍
 Actualmente me encuentro trabajando en proyectos de desarrollo web usando Django, NodeJS, Astro, TailwindCSS y ReactJS. Sin embargo, mi mayor enfoque actual está en aprender con el mayor detalle y profundidad sobre inteligencia artificial, especíalmente Machine Learning y Deep Learning.
