@@ -10,8 +10,8 @@ Actualmente me encuentro trabajando en proyectos de desarrollo web usando Django
 ---
 
 👨🏽‍🔧👨🏽‍💻
-Tengo un proyecto que estoy desarrollando poco a poco con una Raspberry PI como asistente de voz en mi hogar, mi objetivo es irla mejorando cada vez más hasta que consiga realizar trabajos inteligentes. También estoy desarrollando un artículo científico sobre el tráfico de mi anterior ciudad (Antofagasta, Chile), relacionada con los eventos reportados en Waze, para generar un modelo de predicción y recomendaciones para minimizar los riesgos de accidentes.
+Tengo un proyecto que estoy desarrollando poco a poco con una Raspberry PI como asistente de voz en mi hogar, mi objetivo es irla mejorando cada vez más hasta que consiga realizar trabajos inteligentes. También estoy desarrollando un artículo científico sobre el tráfico de mi anterior ciudad (Antofagasta, Chile), relacionado con la generacion de modelo predictivo y recomendaciones para minimizar los riesgos de accidentes, basado en informacion de la base de datos de Waze.
 
-**¡Busco personas con las cuales trabajar en equipo en proyectos y seguir aprendiendo!**
+**¡Abierto a conocer personas con las cuales trabajar en equipo en proyectos y seguir aprendiendo!**
 
 Tengo mi web donde está mi CV y donde posteriormente subiré proyectos: [Web](https://richardhapb.com)
