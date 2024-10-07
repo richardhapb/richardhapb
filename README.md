@@ -1,6 +1,9 @@
 ## Hola 👋
 
-Soy un ingeniero impulsado por el aprendizaje continuo. Disfruto mucho realizando proyectos que permitan resolver un problema, me caracterízo por buscar constantemente la forma de resolver problemas con los que me cruzo en mi vida cotidiana profesional o personal.
+Soy una persona impulsada por el aprendizaje continuo. Disfruto mucho realizando proyectos que permitan resolver un problema, me caracterízo por buscar constantemente la forma de resolver problemas con los que me cruzo en mi vida cotidiana profesional o personal.
+
+📚
+Soy Ingeniero Civil Industrial de profesión y actualmente me encuentro estudiando Física en la UNED, además estoy en un programa de un año de Data Science en Desafío Latam y finalizando un bootcamp de Ingeniería de datos en Datademia.
 
 Programo desde que tenía 14 años, donde comencé con C++ he hice una calculadora avanzada en la línea de comandos, lamentablemente no conservé el código dado que en ese tiempo usaba una antigua PC de escritorio. También aprendí a usar HTML, CSS y Javascript.
 
