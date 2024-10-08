@@ -1,6 +1,6 @@
 ## Hola 👋
 
-Soy una persona impulsada por el aprendizaje continuo. Disfruto mucho realizando proyectos que permitan resolver un problema, me caracterízo por buscar constantemente la forma de resolver problemas con los que me cruzo en mi vida cotidiana profesional o personal.
+Soy una persona impulsada por el aprendizaje continuo. Disfruto mucho realizando proyectos que permitan resolver un problema, me caracterizo por buscar constantemente la forma de resolver problemas con los que me cruzo en mi vida cotidiana profesional o personal.
 
 📚
 Soy Ingeniero Civil Industrial de profesión y actualmente me encuentro estudiando Física en la UNED, además estoy en un programa de un año de Data Science en Desafío Latam y finalizando un bootcamp de Ingeniería de datos en Datademia.
