@@ -1,20 +1,14 @@
 ## Hola 👋
 
-Soy una persona impulsada por el aprendizaje continuo. Disfruto mucho realizando proyectos que permitan resolver un problema, me caracterizo por buscar constantemente la forma de resolver problemas con los que me cruzo en mi vida cotidiana profesional o personal.
+Soy un Ingeniero con una sólida formación autodidacta en tecnología y ciencia de datos. Mi enfoque está en resolver problemas complejos de manera innovadora, aplicando aprendizaje continuo y metodologías efectivas. Siempre busco formas de optimizar procesos y desarrollar soluciones prácticas en contextos reales. Mi entorno favorito de trabajo es con Python, sin embargo disfruto siempre poder obtener nuevas herramientas en mi arsenal.
 
 📚
-Soy Ingeniero Civil Industrial de profesión y actualmente me encuentro estudiando Física en la UNED, además estoy en un programa de un año de Data Science en Desafío Latam y finalizando un bootcamp de Ingeniería de datos en Datademia.
-
-Programo desde que tenía 14 años, donde comencé con C++, hice una calculadora avanzada en la línea de comandos, lamentablemente no conservé el código dado que en ese tiempo usaba una antigua PC de escritorio. También aprendí a usar HTML, CSS y Javascript.
+Actualmente, estoy avanzando en programas intensivos de Data Science en Desafío Latam y de Ingeniería de Datos en Datademia. Mi experiencia en programación comenzó a los 14 años con C++, y desde entonces he incorporado una amplia variedad de lenguajes y tecnologías, incluyendo Python, JavaScript, Lua, Django, NodeJS, Astro, TailwindCSS y ReactJS.
 
 🕵🏽‍♂️🔍
-Actualmente me encuentro trabajando en proyectos de desarrollo web usando Django, NodeJS, Astro, TailwindCSS y ReactJS. Sin embargo, mi mayor enfoque actual está en aprender con el mayor detalle y profundidad sobre inteligencia artificial, especíalmente Machine Learning y Deep Learning.
-
----
+Trabajo en proyectos de desarrollo web y me especializo en aplicaciones de machine learning y deep learning, con un enfoque en inteligencia artificial aplicada. Además, estoy desarrollando un artículo científico sobre análisis predictivo del tráfico urbano en Antofagasta, basado en datos de Waze, que busca optimizar la seguridad vial mediante modelos predictivos.
 
 👨🏽‍🔧👨🏽‍💻
-Tengo un proyecto que estoy desarrollando poco a poco con una Raspberry PI como asistente de voz en mi hogar, mi objetivo es irla mejorando cada vez más hasta que consiga realizar trabajos inteligentes. También estoy desarrollando un artículo científico sobre el tráfico de mi anterior ciudad (Antofagasta, Chile), relacionado con la generacion de modelo predictivo y recomendaciones para minimizar los riesgos de accidentes, basado en informacion de la base de datos de Waze.
+En el ámbito personal, estoy construyendo un asistente de voz en una Raspberry Pi, el cual evoluciona progresivamente con capacidades inteligentes aplicables al hogar.
 
-**¡Abierto a conocer personas con las cuales trabajar en equipo en proyectos y seguir aprendiendo!**
-
-Tengo mi web donde está mi CV y donde posteriormente subiré proyectos: [Web](https://richardhapb.com)
+Estoy abierto a colaborar con equipos dinámicos y proyectos que promuevan innovación y aprendizaje continuo.
