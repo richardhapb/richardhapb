@@ -1,14 +1,15 @@
-## Hola 👋
+## Hello 👋
 
-Soy un profesional apasionado por lo que hace y que disfruta resolviendo problemas de diferente índole, utilizando diferentes herramientas como también conocimiento teórico. Siempre me encuentro trabajando en proyecto y aprendiendo lo necesario para desarrollarlos. Mi lenguaje base es Python, pero desarrollo en la tecnología que sea necesaria para conseguir los resultados esperados.
+I am a passionate professional who enjoys solving various problems using different tools and theoretical knowledge. I am always working on projects and learning what is necessary to develop them. My primary language is Python, but I work with any technology needed to achieve the desired results.
 
 📚
-Actualmente, estoy avanzando en programas intensivos de Data Science en Desafío Latam y de Ingeniería de Datos en Datademia. Mi experiencia en programación comenzó a los 14 años con C++, donde desarrollé algunos proyectos para aprender, y desde entonces he incorporado una amplia variedad de lenguajes y tecnologías, incluyendo Python, JavaScript, Lua, Django, NodeJS, Astro, TailwindCSS y ReactJS principalmente.
+My programming journey began at the age of 14 with C++, where I developed some projects to learn, and since then, I have incorporated a wide variety of languages and technologies, including Python, JavaScript, Lua, Django, NodeJS, Astro, TailwindCSS, and ReactJS.
 
 🕵🏽‍♂️🔍
-Trabajo en proyectos relacionados con datos y me especializo en aplicaciones de machine learning y deep learning, con un enfoque en inteligencia artificial aplicada. Además, estoy desarrollando un artículo científico sobre análisis predictivo del tráfico urbano en Antofagasta, basado en datos de Waze, que busca optimizar la seguridad vial mediante modelos predictivos. El proyecto está desplegado en el siguiente link: [Dashboard tráfico Antofagasta](https://traficoantofagasta.com).
+I work on backend development and enjot with data-related projects and specialize in integrations and dynamic insights from them, with a focus on applied engineering. Additionally, I am developing a scientific researching on predictive traffic analysis in Antofagasta, based on Waze data, which aims to optimize road safety through predictive models. The project is deployed at the following link: [Antofagasta Traffic Dashboard](https://traficoantofagasta.com).
 
 👨🏽‍🔧👨🏽‍💻
-En el ámbito personal, me encuentro trabajando en proyectos de ingeniería de datos, un área que me apasiona.
+On a personal level, I am working on data engineering projects, an area I am passionate about.
 
-Estoy abierto a colaborar con equipos dinámicos y proyectos que promuevan innovación y aprendizaje continuo.
+
+I LOVE WORK ON NEOVIM AND IMPLEMENT NEW FEATURES FOR MY WORKFLOW.
