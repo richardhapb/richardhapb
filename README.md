@@ -7,6 +7,3 @@ I work on backend development and enjoy with data-related projects and specializ
 
 👨🏽‍🔧👨🏽‍💻
 On a personal level, I enjoy a lot the sports and spend my time learning new things, reading books, and coding!
-
-
-I LOVE WORK ON NEOVIM AND IMPLEMENT NEW FEATURES FOR MY WORKFLOW.
