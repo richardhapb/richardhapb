@@ -1,9 +1,13 @@
-## Hello 👋
+Hello 👋
 
-I am a passionate professional who enjoys solving various problems using different tools and theoretical knowledge. I am always working on projects and learning what is necessary to develop them. My primary language is Python and Rust, but I work with any technology needed to achieve the desired results.
+I am a passionate professional who enjoys solving diverse problems using different tools and theoretical knowledge.
+I am always working on projects and learning whatever is necessary to develop them.
+I love working with low-level programming and understanding how things work under the hood.
 
 🕵🏽‍♂️🔍
-I work on backend development and enjoy with data-related projects and specialize in integrations and dynamic insights from them, with a focus on applied engineering. Additionally, I am developing a scientific researching on predictive traffic analysis in Antofagasta, based on Waze data, which aims to optimize road safety through predictive models. The project is deployed at the following link: [Antofagasta Traffic Dashboard](https://traficoantofagasta.com).
+I specialize in backend development and enjoy tackling challenging projects that solve real problems.
+I am currently working on several projects related to networking, and I enjoy connecting different tools to create unique and meaningful results.
+I have developed some Neovim plugins and development tools.
 
 👨🏽‍🔧👨🏽‍💻
-On a personal level, I enjoy a lot the sports and spend my time learning new things, reading books, and coding!
+On a personal level, I am passionate about sports, spending time learning new things, reading books, and, of course, coding!
