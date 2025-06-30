@@ -7,8 +7,8 @@ I love working with low-level programming and understanding how things work unde
 🕵🏽‍♂️🔍
 
 I specialize in backend development and enjoy tackling challenging projects that solve real problems.<br>
-I am currently working on several projects related to networking, and I enjoy connecting different tools to create unique and meaningful results.<br>
-I have developed some Neovim plugins and development tools.
+I am currently working on several developer-related tools, and I enjoy connecting different tools to create unique and meaningful results.<br>
+I have developed some Neovim plugins.
 
 👨🏽‍🔧👨🏽‍💻
 
