@@ -1,6 +1,6 @@
 Hey 👾
 
-I'm a relentless builder and reverse-engineering enthusiast — I dive deep into how things *really* work. From syscalls to sockets, I love dissecting systems and bending them to do useful or unexpected things.
+I'm a relentless builder and reverse-engineering enthusiast — I dive deep into how things really work. Whether it's parsing something or doing strange things with sockets, I love dissecting systems and bending them to do useful — or unexpected — things.
 
 🛠️⚙️
 
