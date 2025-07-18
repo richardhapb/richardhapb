@@ -1,15 +1,15 @@
-Hello 👋
+Hey 👾
 
-I am a passionate professional who enjoys solving diverse problems using different tools and theoretical knowledge. <br>
-I am always working on projects and learning whatever is necessary to develop them.<br>
-I love working with low-level programming and understanding how things work under the hood.
+I'm a relentless builder and reverse-engineering enthusiast — I dive deep into how things *really* work. From syscalls to sockets, I love dissecting systems and bending them to do useful or unexpected things.
 
-🕵🏽‍♂️🔍
+🛠️⚙️
 
-I specialize in backend development and enjoy tackling challenging projects that solve real problems.<br>
-I am currently working on several developer-related tools, and I enjoy connecting different tools to create unique and meaningful results.<br>
-I have developed some Neovim plugins.
+My weapon of choice is Rust, but I roam freely across the stack when the mission demands it. I craft developer tooling, wire protocols, and occasionally summon Neovim plugins from the void to make my workflow smarter, faster, cleaner.
 
-👨🏽‍🔧👨🏽‍💻
+🧠🛰️
 
-On a personal level, I am passionate about sports, spending time learning new things, reading books, and, of course, coding!
+I'm always prototyping, breaking, fixing, and learning.
+
+Outside the terminal? I chase movement, books, and any idea worth getting obsessed over.
+
+Let’s build cool stuff. 🚀
